@@ -1,0 +1,33 @@
+
+Shop:
+  DailyShop:
+    PlayerItem:
+      - あず_Mine_farmDrop_1
+      - あず_Mine_farmDrop_2
+      - あず_Mine_farmDrop_3
+      - あず_Mine_farmDrop_4
+    ResultItem:
+      - F1_drop_c1
+      - F1_drop_c1
+      - F1_drop_c1
+      - F1_drop_c1
+      - F1_drop_c1
+      - F1_drop_c2
+      - F1_drop_c2
+      - F1_drop_c2
+      - mining_drop_Enchantment_a1
+      - mining_drop_Enchantment_a1
+      - mining_drop_Enchantment_a1
+      - mining_drop_Enchantment_a1
+      - mining_drop_Enchantment_a1
+      - mining_drop_Enchantment_b1
+      - mining_drop_Enchantment_b1
+      - mining_drop_Enchantment_b1
+      - あず_Farm_Trade_a1
+      - あず_Farm_Trade_a1
+      - あず_Farm_Trade_a1
+      - あず_Farm_Trade_a1
+      - あず_Farm_Trade_a1
+      - あず_Farm_Trade_a2
+      - あず_Farm_Trade_a2
+      - あず_Farm_Trade_a2

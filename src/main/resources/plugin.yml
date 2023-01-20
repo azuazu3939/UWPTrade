@@ -1,0 +1,16 @@
+name: UWPTrade
+version: '${project.version}'
+main: azuazu3939.uwptrade.UWPTrade
+api-version: 1.19
+
+commands:
+  shopCreate:
+    permission: uwpTrade.command.shopCreate
+    description: "uwpTradeを行う村人を設置する。"
+    aliases: [shopc, sc, SC, SHOPC, ShopC, ShopCreate]
+
+permissions:
+  uwpTrade.command.*:
+    default: false
+    children:
+      uwpTrade.command.shopCreate: true
